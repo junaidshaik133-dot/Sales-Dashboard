@@ -86,7 +86,7 @@ Resource Allocation: Assists leadership in reallocating sales resources to under
 
 
 6. Screenshots / Demos
-Show what the dashboard looks like. - (
+Show what the dashboard looks like. - (https://github.com/junaidshaik133-dot/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.pdf)
 
 
 
