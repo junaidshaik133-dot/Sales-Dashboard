@@ -43,7 +43,7 @@ City-level performance breakdown for major regions across India.
 • Business Problem
 Organizations often struggle to quickly identify which cities, zones, or time periods drive profitability and sales growth. Tracking sales trends over years and comparing zone contributions can be difficult with raw spreadsheets.
 
-• Goal of the Dashboard
+6• Goal of the Dashboard
 To create a business intelligence tool that:
 
 Tracks yearly revenue and profitability.
@@ -54,7 +54,7 @@ Compares performance across zones (North, Central, South).
 
 Supports decision-making for regional sales strategy and business expansion.
 
-• Walkthrough of Key Visuals
+7• Walkthrough of Key Visuals
 
 Key KPIs (Top Section):
 
@@ -74,7 +74,7 @@ Zone-wise Performance (Pie/Donut Chart): North contributes 68.6%, followed by Ce
 
 Dynamic Measures: Interactive filters and profit contribution % to evaluate different metrics.
 
-• Business Impact & Insights
+8• Business Impact & Insights
 
 Strategic Planning: Helps identify high-growth zones like North India for focused investment.
 
@@ -85,7 +85,7 @@ Performance Tracking: Monitors YOY revenue growth to measure effectiveness of bu
 Resource Allocation: Assists leadership in reallocating sales resources to underperforming regions.
 
 
-6. Screenshots / Demos
+9. Screenshots / Demos
 Show what the dashboard looks like. - (https://github.com/junaidshaik133-dot/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.pdf)
 
 
